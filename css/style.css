@@ -88,3 +88,15 @@ h1{
         font-size: 12px;
     }
 }
+@media screen and (max-width: 385px) {
+    h1{
+        font-size: 23px;
+    }
+    .big-text{
+        font-size: 17px;
+        font-size: 900;
+    }
+    .contdown-el span{
+        font-size: 12px;
+    }
+}
